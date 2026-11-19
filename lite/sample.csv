@@ -1,0 +1,51 @@
+company,industry,region,employees,annual_revenue_usd,website,facebook,linkedin,email,phone,decision_maker_title
+Apex Partners,SaaS,North America,120,64775000,https://apex-0.example.com,https://facebook.com/apex0,https://linkedin.com/company/apex-0,hello@apex-0.example.com,+1-624-310-8165,COO
+Vertex Works,Fintech,Europe,25,19275000,https://vertex-1.example.com,https://facebook.com/vertex1,https://linkedin.com/company/vertex-1,hello@vertex-1.example.com,+1-660-209-3109,VP Sales
+Bright Holdings,Education,North America,120,69650000,https://bright-2.example.com,https://facebook.com/bright2,https://linkedin.com/company/bright-2,hello@bright-2.example.com,+1-953-631-6845,Head of Ops
+Prime Partners,Manufacturing,APAC,900,74750000,https://prime-3.example.com,https://facebook.com/prime3,https://linkedin.com/company/prime-3,hello@prime-3.example.com,+1-436-706-2184,CMO
+Cedar Group,Manufacturing,North America,2500,65125000,https://cedar-4.example.com,https://facebook.com/cedar4,https://linkedin.com/company/cedar-4,hello@cedar-4.example.com,+1-713-262-8902,Founder
+North Group,Healthcare,North America,900,42875000,https://north-5.example.com,https://facebook.com/north5,https://linkedin.com/company/north-5,hello@north-5.example.com,+1-518-616-9570,Founder
+Peak Solutions,Education,APAC,25,16875000,https://peak-6.example.com,https://facebook.com/peak6,https://linkedin.com/company/peak-6,hello@peak-6.example.com,+1-899-654-8402,VP Sales
+Nova Labs,Fintech,Europe,2500,21025000,https://nova-7.example.com,https://facebook.com/nova7,https://linkedin.com/company/nova-7,hello@nova-7.example.com,+1-244-427-5458,COO
+Cedar Analytics,Healthcare,North America,900,70775000,https://cedar-8.example.com,https://facebook.com/cedar8,https://linkedin.com/company/cedar-8,hello@cedar-8.example.com,+1-796-838-7406,Founder
+Lumen Works,Retail,APAC,60,3475000,https://lumen-9.example.com,https://facebook.com/lumen9,https://linkedin.com/company/lumen-9,hello@lumen-9.example.com,+1-426-204-9057,COO
+Cedar Partners,Logistics,APAC,25,67300000,https://cedar-10.example.com,https://facebook.com/cedar10,https://linkedin.com/company/cedar-10,hello@cedar-10.example.com,+1-228-492-1398,CMO
+Blue Solutions,Energy,North America,25,68950000,https://blue-11.example.com,https://facebook.com/blue11,https://linkedin.com/company/blue-11,hello@blue-11.example.com,+1-602-506-1994,Founder
+North Systems,Real Estate,North America,350,75225000,https://north-12.example.com,https://facebook.com/north12,https://linkedin.com/company/north-12,hello@north-12.example.com,+1-550-395-4448,VP Sales
+Alpha Ventures,Real Estate,MEA,25,62675000,https://alpha-13.example.com,https://facebook.com/alpha13,https://linkedin.com/company/alpha-13,hello@alpha-13.example.com,+1-289-247-9719,VP Sales
+Blue Labs,Manufacturing,APAC,60,46900000,https://blue-14.example.com,https://facebook.com/blue14,https://linkedin.com/company/blue-14,hello@blue-14.example.com,+1-971-437-9328,COO
+Apex Analytics,Real Estate,APAC,2500,23100000,https://apex-15.example.com,https://facebook.com/apex15,https://linkedin.com/company/apex-15,hello@apex-15.example.com,+1-446-420-2778,CMO
+Apex Works,SaaS,LATAM,900,74900000,https://apex-16.example.com,https://facebook.com/apex16,https://linkedin.com/company/apex-16,hello@apex-16.example.com,+1-643-931-7378,CMO
+Summit Analytics,Retail,APAC,60,32250000,https://summit-17.example.com,https://facebook.com/summit17,https://linkedin.com/company/summit-17,hello@summit-17.example.com,+1-660-814-9006,CEO
+Blue Holdings,Education,MEA,25,62675000,https://blue-18.example.com,https://facebook.com/blue18,https://linkedin.com/company/blue-18,hello@blue-18.example.com,+1-538-953-4916,Head of Ops
+Quantum Group,Energy,North America,900,44150000,https://quantum-19.example.com,https://facebook.com/quantum19,https://linkedin.com/company/quantum-19,hello@quantum-19.example.com,+1-555-781-4029,Founder
+North Solutions,Logistics,APAC,900,12400000,https://north-20.example.com,https://facebook.com/north20,https://linkedin.com/company/north-20,hello@north-20.example.com,+1-467-267-8185,CEO
+Peak Solutions,Fintech,APAC,900,4225000,https://peak-21.example.com,https://facebook.com/peak21,https://linkedin.com/company/peak-21,hello@peak-21.example.com,+1-680-814-7549,VP Sales
+North Labs,Fintech,APAC,120,62350000,https://north-22.example.com,https://facebook.com/north22,https://linkedin.com/company/north-22,hello@north-22.example.com,+1-577-539-3829,CMO
+Orbit Analytics,Energy,North America,25,56275000,https://orbit-23.example.com,https://facebook.com/orbit23,https://linkedin.com/company/orbit-23,hello@orbit-23.example.com,+1-757-306-5022,VP Sales
+Lumen Holdings,Retail,LATAM,350,75550000,https://lumen-24.example.com,https://facebook.com/lumen24,https://linkedin.com/company/lumen-24,hello@lumen-24.example.com,+1-213-570-6491,Head of Ops
+Alpha Analytics,Fintech,APAC,25,72300000,https://alpha-25.example.com,https://facebook.com/alpha25,https://linkedin.com/company/alpha-25,hello@alpha-25.example.com,+1-630-882-6679,CMO
+Cedar Ventures,Fintech,MEA,900,15900000,https://cedar-26.example.com,https://facebook.com/cedar26,https://linkedin.com/company/cedar-26,hello@cedar-26.example.com,+1-714-992-6143,VP Sales
+Peak Holdings,E-Commerce,APAC,2500,16300000,https://peak-27.example.com,https://facebook.com/peak27,https://linkedin.com/company/peak-27,hello@peak-27.example.com,+1-776-835-1336,VP Sales
+Nova Analytics,SaaS,Europe,350,31950000,https://nova-28.example.com,https://facebook.com/nova28,https://linkedin.com/company/nova-28,hello@nova-28.example.com,+1-976-275-5348,VP Sales
+Apex Ventures,Logistics,MEA,25,44150000,https://apex-29.example.com,https://facebook.com/apex29,https://linkedin.com/company/apex-29,hello@apex-29.example.com,+1-887-792-8572,Head of Ops
+North Works,Energy,North America,12,18100000,https://north-30.example.com,https://facebook.com/north30,https://linkedin.com/company/north-30,hello@north-30.example.com,+1-947-577-8005,COO
+Blue Solutions,E-Commerce,LATAM,120,40450000,https://blue-31.example.com,https://facebook.com/blue31,https://linkedin.com/company/blue-31,hello@blue-31.example.com,+1-394-962-9460,CMO
+Summit Partners,SaaS,APAC,120,37900000,https://summit-32.example.com,https://facebook.com/summit32,https://linkedin.com/company/summit-32,hello@summit-32.example.com,+1-967-513-2572,COO
+Quantum Labs,Healthcare,LATAM,60,77550000,https://quantum-33.example.com,https://facebook.com/quantum33,https://linkedin.com/company/quantum-33,hello@quantum-33.example.com,+1-821-700-4481,VP Sales
+Blue Solutions,Real Estate,MEA,2500,43625000,https://blue-34.example.com,https://facebook.com/blue34,https://linkedin.com/company/blue-34,hello@blue-34.example.com,+1-881-623-9372,Founder
+Vertex Systems,Logistics,APAC,120,45150000,https://vertex-35.example.com,https://facebook.com/vertex35,https://linkedin.com/company/vertex-35,hello@vertex-35.example.com,+1-435-309-8028,COO
+Prime Solutions,Fintech,North America,25,19100000,https://prime-36.example.com,https://facebook.com/prime36,https://linkedin.com/company/prime-36,hello@prime-36.example.com,+1-270-979-3046,Head of Ops
+North Solutions,Healthcare,North America,120,58325000,https://north-37.example.com,https://facebook.com/north37,https://linkedin.com/company/north-37,hello@north-37.example.com,+1-356-666-3695,VP Sales
+Summit Works,Healthcare,MEA,2500,19150000,https://summit-38.example.com,https://facebook.com/summit38,https://linkedin.com/company/summit-38,hello@summit-38.example.com,+1-516-410-5937,COO
+Blue Group,E-Commerce,LATAM,2500,44650000,https://blue-39.example.com,https://facebook.com/blue39,https://linkedin.com/company/blue-39,hello@blue-39.example.com,+1-756-713-1745,Head of Ops
+Blue Partners,Education,APAC,60,78725000,https://blue-40.example.com,https://facebook.com/blue40,https://linkedin.com/company/blue-40,hello@blue-40.example.com,+1-983-310-9033,COO
+North Digital,Energy,North America,900,38125000,https://north-41.example.com,https://facebook.com/north41,https://linkedin.com/company/north-41,hello@north-41.example.com,+1-398-705-2191,COO
+Quantum Group,Retail,LATAM,120,77975000,https://quantum-42.example.com,https://facebook.com/quantum42,https://linkedin.com/company/quantum-42,hello@quantum-42.example.com,+1-726-562-1467,CEO
+Nova Digital,Energy,APAC,5,11575000,https://nova-43.example.com,https://facebook.com/nova43,https://linkedin.com/company/nova-43,hello@nova-43.example.com,+1-359-814-8070,Head of Ops
+Vertex Solutions,SaaS,MEA,5,46175000,https://vertex-44.example.com,https://facebook.com/vertex44,https://linkedin.com/company/vertex-44,hello@vertex-44.example.com,+1-646-330-5329,CEO
+Bright Solutions,Healthcare,APAC,900,65775000,https://bright-45.example.com,https://facebook.com/bright45,https://linkedin.com/company/bright-45,hello@bright-45.example.com,+1-640-869-7563,Head of Ops
+Cedar Partners,Logistics,MEA,60,35950000,https://cedar-46.example.com,https://facebook.com/cedar46,https://linkedin.com/company/cedar-46,hello@cedar-46.example.com,+1-911-205-7149,CMO
+Peak Systems,Real Estate,MEA,2500,64950000,https://peak-47.example.com,https://facebook.com/peak47,https://linkedin.com/company/peak-47,hello@peak-47.example.com,+1-465-567-4901,VP Sales
+Alpha Works,Logistics,MEA,900,64425000,https://alpha-48.example.com,https://facebook.com/alpha48,https://linkedin.com/company/alpha-48,hello@alpha-48.example.com,+1-428-613-4773,Founder
+Cedar Group,SaaS,Europe,12,36775000,https://cedar-49.example.com,https://facebook.com/cedar49,https://linkedin.com/company/cedar-49,hello@cedar-49.example.com,+1-575-720-8093,Head of Ops
