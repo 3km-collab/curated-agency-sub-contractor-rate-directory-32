@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/curated-agency-sub-contractor-rate-directory-32/sitemap.xml
